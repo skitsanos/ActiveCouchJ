@@ -1,0 +1,14 @@
+    {
+    "createIfNotExists": true,
+
+    "replicate":[
+
+        {
+        "target": "http://usladha.iriscouch.com/new", 
+        "source": "https://usladha@usladha:usladha.cloudant.com/a"
+        }
+        
+        
+
+    ]
+    }
